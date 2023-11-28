@@ -1,0 +1,520 @@
+/* Extra small devices (portrait phones, less than 576)*/
+@media (max-width: 575.98px){
+	/*header start */
+.logo {
+	width:150px;
+}	
+.menu ul li a {
+	font-size:15px;
+	text-align:right;
+}
+.menu ul li a:hover  {
+	background:none;
+}
+.user{
+	text-align:right;
+}
+.search {
+	text-align:right;
+	padding-right:5px;
+}
+.custom_u {  
+     left:150px;
+}
+.custom_s {
+    left:50px;
+    min-width: 5rem;
+}
+	/*header end */
+	/*banner start */
+.b_content h1 {
+	font-size:20px;
+	margin-top:150px;
+	margin-bottom:120px;
+}
+	/*banner end */
+	/* kid1 end*/
+.kid1{
+	padding:60px 0;
+}
+.c_h2{
+	font-size:17px;
+	margin-bottom:20px;
+}
+.k_text h3{
+	font-size:14px;
+}
+.k_text hr {
+	width:150px;
+}
+.k_text p {
+	font-size:10px;
+}
+.k_text img {
+	width:140px;
+}
+.k_img img {
+	height:200px;
+	width:350px;
+}
+.k_img img {
+	margin-top:20px;
+}
+	/* kid1 end*/
+	/* kid2 start */
+.kid2{
+	padding-bottom:50px;
+}
+.k_contnet {
+	margin-bottom:30px;
+}
+.k_contnet p {
+	margin-top:10px;
+	font-size:20px;
+}
+	/* kid2 end */
+			/*featured start*/
+.featured {
+	padding-bottom:60px;
+}
+.c_h2{
+	font-size:15px;
+}
+.card{
+	margin-bottom:20px;
+	
+}
+.courses{
+	margin-top:5px;
+}
+.bn{
+	width: 266px;
+}
+	/*featured end*/
+			/* moments start*/
+.moments{
+	padding-bottom:50px;
+}
+.view_b img{
+	width: 132px;
+}
+	/* moments end*/
+		/*great start*/
+.great{
+	padding-bottom:60px;
+}
+.tweet h6 {
+	font-size:13px;
+}
+.tweet p{
+	font-size:11px;
+}
+	/*great end*/
+		/*events star*/
+.event_im img{
+	height: 55px; 
+	width:80px;
+}
+.event_text h1 {
+	font-size:14px;
+}
+.icn_c {
+	font-size:10px;
+}
+.icn_cs {
+    font-size: 10px;
+}
+
+.event_text p {
+	font-size:10px;
+}
+.back img{
+    height: 126px;
+    width: 200px;
+   margin-left:-20px;
+}
+.m_ti {
+	margin-top:-4px;
+}
+.a_h2 {
+	font-size:15px;
+}
+.icn_a{
+	font-size:10px;
+}
+.psum{
+	font-size: 10px;
+}
+.c_h2{
+	margin-top:5px;
+}
+	/*events end*/
+	/*little start*/
+.ins_text{
+	margin-top:30px;
+}
+.con_text{
+	margin-top:30px;
+}
+.signup_text {
+	margin-top:30px;
+	font-size:22px;
+    margin-left:5px;
+}
+.sign {
+	margin-left:5px;
+	padding-bottom:60px;
+}
+.signup_hr {
+	margin-left:5px;
+}
+
+.sign_bt{
+	width: 256px;
+}
+	/*little end*/
+	/*footer start*/
+.footer{
+	margin-top:632px;
+	padding:5px 0;
+}
+.f_list ul li a{
+	font-size:10px;
+}
+.f_copy p{
+	font-size:10px;
+	text-align:center;
+}
+	/*footer end*/
+}
+/*Small devices (landscape phone, 576px and up)*/
+@media (min-width: 576px) and (max-width:767.98px){
+		/*header start */
+.menu ul li a {
+	text-align:right;
+}
+.menu ul li a:hover  {
+	background:none;
+}
+.user{
+	text-align:right;
+}
+.search {
+	text-align:right;
+	padding-right:5px;
+}
+.custom_u {  
+     left:370px;
+}
+.custom_s {
+    left:215px;
+}
+	/*header end */
+		/*banner start */
+.b_content h1 {
+	font-size:35px;
+	margin-top:150px;
+	margin-bottom:110px;
+}
+	/*banner end */
+    /* kid1 start*/
+.k_img img {
+	margin-top:20px;
+}
+.k_text img {
+	width:170px;
+}
+	/* kid1 end*/
+	/* kid2 start */
+.kid2{
+	padding-bottom:50px;
+}
+.k_contnet {
+	margin-bottom:30px;
+}
+.k_contnet p {
+	margin-top:10px;
+	font-size:20px;
+}
+	/* kid2 end */
+		/*featured start*/
+.featured {
+	padding-bottom:60px;
+}
+.c_h2{
+	font-size:26px;
+}
+.card{
+	margin-bottom:20px;
+}
+.courses{
+	margin-top:7px;
+}
+.bn{
+	width: 540px;
+}
+	/*featured end*/
+		/* moments start*/
+.moments{
+	padding-bottom:58px;
+}
+.view_b img{
+	width: 132px;
+}
+	/* moments end*/
+	/*great start*/
+.m_bt{
+	margin-bottom:20px;
+}
+	/*great end*/
+		/*events star*/
+.back img{
+    margin-left:-24px;
+}	
+.c_h2{
+	margin-top:5px;
+}
+		/*events end*/
+		/*little start*/
+
+.con_text{
+	margin-top:30px;
+}
+.signup_text {
+	margin-top:30px;
+}
+.sign {
+	padding-bottom:70px;
+}
+.ins_img{
+	margin-left:15px;
+}
+		/*little end*/
+		/*footer start*/
+.footer{
+	margin-top:180px;
+	padding:5px 0;
+}
+.f_list ul li a{
+	font-size:10px;
+}
+.f_copy p{
+	font-size:10px;
+}
+	/*footer end*/
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width:991.8px){
+		/*header start */
+.menu ul li a {
+	text-align:right;
+}
+.menu ul li a:hover  {
+	background:none;
+}
+.user{
+	text-align:right;
+}
+.search {
+	text-align:right;
+	padding-right:5px;
+}
+.custom_u {  
+     left:550px;
+}
+.custom_s {
+    left:395px;
+}
+	/*header end */
+	/*banner start */
+.b_content h1 {
+	font-size:40px;
+	margin-top:200px;
+	margin-bottom:200px;
+}
+	/*banner end */
+		/* kid1 start*/
+.k_img img {
+	margin-top:10px;
+}
+.k_text img {
+	width:170px;
+}
+	/* kid1 end*/
+		/*featured start*/
+.featured {
+	padding-bottom:60px;
+}
+.card{
+	margin-bottom:20px;
+}
+.courses{
+	margin-top:9px;
+}
+.bn{
+	width: 600px;
+}
+	/*featured end*/
+	/* moments start*/
+.moments{
+	padding-bottom:58px;
+}
+.mo_img img {
+	    height: 168px;
+}
+.view_b img{
+	width: 132px;
+}
+	/* moments end*/
+	/*great start*/
+.tweet p {
+	font-size:15px;
+}
+.linde_img img {
+	height:200px;
+}
+.glen_p{
+	font-size:15px;
+}
+.lif_p {
+	 font-size:9px;
+}
+.are_p {
+	font-size:8px;
+}
+.tum a i {
+	font-size:13px;
+}
+.men ul li a {
+	  font-size: 10px;
+}
+.alba_p{
+	font-size:15px;
+}
+.Jack_p{
+	font-size:15px;
+}
+.phill_p{
+	font-size:15px;
+}
+	/*great end*/
+	/*what start */
+.cu_up {
+	font-size:18px;
+}
+	/*what end */
+	/*events star*/
+.event_im img{
+	height: 55px;
+}
+.event_text h1 {
+	font-size:14px;
+}
+.icn_c {
+	font-size:10px;
+}
+.icn_cs {
+    font-size: 10px;
+}
+
+.event_text p {
+	font-size:10px;
+}
+.back img{
+    height: 126px;
+    width: 233px;
+}
+.m_ti {
+	margin-top:-4px;
+}
+.a_h2 {
+	font-size:15px;
+}
+.icn_a{
+	font-size:10px;
+}
+.psum{
+	font-size: 10px;
+}
+	/*events end*/
+	/*little start*/
+
+.con_text{
+	margin-top:30px;
+}
+.signup_text {
+	margin-top:30px;
+}
+.sign {
+	padding-bottom:70px;
+}
+.ins_img{
+	margin-left:15px;
+}
+		/*little end*/
+		/*footer start*/
+.footer{
+	margin-top:172px;
+	padding:9px 0;
+}
+.f_list ul li a{
+	font-size:10px;
+}
+.f_copy p{
+	font-size:10px;
+}
+	/*footer end*/
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width:1199.98px){
+	/*featured start*/
+.featured {
+	padding-bottom:60px;
+}
+.card{
+	margin-bottom:20px;
+}
+.bn{
+	width: 842px;
+}
+	/*featured end*/
+	/*little start*/
+.ins_img img{
+	height:50px;
+	width: 57px;
+	
+}
+.signup_text {
+	font-size:22px;
+	margin-top:120px;
+	margin-bottom:5px;
+}
+.sign_bt{
+	width: 256px;
+}
+	/*little end*/
+	/*footer start*/
+.f_list ul li a{
+	font-size:10px;
+}
+.f_copy p{
+	font-size:10px;
+}
+	/*footer end*/
+}
+/*Extra large devices (large desktops, 576px and up)*/
+@media (min-width: 1200px) and (max-width:1299.98px){
+		/* kids end*/
+.k_img img {
+	margin-top:5px;
+}
+	/* kids end*/
+}
+/*Extra large devices (large desktops, 576px and up)*/
+@media (min-width: 1400px) and (max-width:1599.98px){
+	/* kid1 start*/
+.k_img img {
+	margin-top:5px;
+}
+	/* kid1 end*/
+}
